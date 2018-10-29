@@ -1,12 +1,6 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "${MONGODB_URI}",
-    "database": "test_react",
-    "password": "",
-    "name": "mongoDS",
-    "user": "",
+    "url": "mongodb://heroku_kl2544fl:vlm5vv3do403murg1prmgps3lk@ds031551.mlab.com:31551/heroku_kl2544fl",
     "connector": "mongodb"
   }
 }
