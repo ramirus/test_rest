@@ -1,6 +1,12 @@
 {
   "db": {
-    "name": "mongo",
+    "host": "ds145053.mlab.com",
+    "port": 45053,
+    "url": "",
+    "database": "rest_test",
+    "password": "",
+    "name": "mongoDS",
+    "user": "",
     "connector": "mongodb"
   }
 }
