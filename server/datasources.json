@@ -1,12 +1,6 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "test_react",
-    "password": "",
-    "name": "mongoDS",
-    "user": "",
+    "name": "mongo",
     "connector": "mongodb"
   }
 }
